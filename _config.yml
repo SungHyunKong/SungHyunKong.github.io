@@ -17,7 +17,7 @@ remote_theme : mmistakes/minimal-mistakes
 # Site Settings
 locale                   : "en-US"
 title                    : "공성현의 개발블로그"
-title_separator          : "-"
+title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SungHyun-kong"
 description              : "An amazing website."
