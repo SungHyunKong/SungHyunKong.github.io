@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello"
   location         : "Gwangju"
-  email            :
+  email            : "tkrxod@knou.ac.kr"
   links:
     - label: "tkrxod@knou.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
