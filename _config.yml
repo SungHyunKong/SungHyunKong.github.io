@@ -100,6 +100,7 @@ author:
   email            : "tkrxod@knou.ac.kr"
   links
     - label : "tkrxod@knou.ac.kr"
+       icon: "fas fa-fw fa-link"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
