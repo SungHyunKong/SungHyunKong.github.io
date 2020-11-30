@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "신입개발자의 개발블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "SungHyun-kong"
 description              : "An amazing website."
 url                      : "https://SungHyunKong.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
