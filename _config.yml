@@ -98,10 +98,7 @@ author:
   bio              : "Hello"
   location         : "Gwangju"
   email            : "tkrxod@knou.ac.kr"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+  links
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
