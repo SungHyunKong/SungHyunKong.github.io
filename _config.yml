@@ -13,11 +13,10 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-remote_theme : mmistakes/minimal-mistakes
 # Site Settings
 locale                   : "en-US"
 title                    : "공성현의 개발블로그"
-title_separator          : ""
+title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SungHyun-kong"
 description              : "An amazing website."
@@ -97,9 +96,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello"
   location         : "Gwangju"
-  email            : "tkrxod@knou.ac.kr"
-  links :
-     - label: "tkrxod@knou.ac.kr"
+  email            :
+  links:
+    - label: "tkrxod@knou.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
