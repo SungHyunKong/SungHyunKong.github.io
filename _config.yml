@@ -99,6 +99,7 @@ author:
   location         : "Gwangju"
   email            : "tkrxod@knou.ac.kr"
   links
+    - label : "tkrxod@knou.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
